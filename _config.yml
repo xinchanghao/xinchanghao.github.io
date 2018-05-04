@@ -1,9 +1,9 @@
 # Basic
 title: 化风
-subtitle: 化风CSDN博客
-description: 欢迎来到化风的个人博客~
+subtitle: 沉稳大气 笃行克己
+description: 欢迎来到化风的个人博客
 # 头像里面的标题
-avatarTitle: 化风
+avatarTitle: 化 风
 # 头像里面的描述
 avatarDesc: 前端 / PHP
 url: "http://xinchanghao.github.io"
@@ -11,7 +11,6 @@ url: "http://xinchanghao.github.io"
 # Comment
 comment:
     disqus: huafeng
-    # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
@@ -23,14 +22,13 @@ social:
 # 百度统计
 # 使用博客模板请去掉或者更换 id
 baidu:
-    #id: 8ba1c6be0953b6f9c2ba38e57f615421
     id: 46b9471b9f2035075f2e22f64055d7ab
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
-# ga:
-#     id: UA-84134159-3
-#     host: auto
+ga:
+    id: UA-118703487-1
+    host: auto
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
@@ -58,7 +56,7 @@ blog_button:
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: '/archive'}
+    - {title: 列表, description: archive, url: '/archive'}
     - {title: 标签, description: tags, url: '/tags'}
     - {title: 关于我, description: about, url: '/about'}
 
