@@ -59,6 +59,7 @@ nav:
     - {title: 列表, description: archive, url: '/archive'}
     - {title: 标签, description: tags, url: '/tags'}
     - {title: 关于我, description: about, url: '/about'}
+    - {title: 轻松一刻, description: TinyHeart, url: '/TinyHeart'}
 
 
 # Pagination
