@@ -1,42 +1,43 @@
 # Basic
-title:化风
+title: 化风
 subtitle: 化风CSDN博客
 description: 欢迎来到化风的个人博客~
 # 头像里面的标题
 avatarTitle: 化风
 # 头像里面的描述
-avatarDesc: Web前端攻城狮
+avatarDesc: 前端 / PHP
 url: "http://xinchanghao.github.io"
 
 # Comment
 comment:
-    disqus: leopard
+    disqus: huafeng
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726
+    #weibo: 5366874726
     github: xinchanghao
-    # twitter:
+    twitter: xinchanghao
     mail: chh.xin@gmail.com
 
 # 百度统计
 # 使用博客模板请去掉或者更换 id
 baidu:
-    id: 8ba1c6be0953b6f9c2ba38e57f615421
+    #id: 8ba1c6be0953b6f9c2ba38e57f615421
+    id: 46b9471b9f2035075f2e22f64055d7ab
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
-ga:
-    id: UA-84134159-3
-    host: auto
+# ga:
+#     id: UA-84134159-3
+#     host: auto
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
 #
 #
 #  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
+#  帮忙star一下，感谢~😆 地址： https://github.com/xinchanghao/xinchanghao.github.io
 #
 #
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
