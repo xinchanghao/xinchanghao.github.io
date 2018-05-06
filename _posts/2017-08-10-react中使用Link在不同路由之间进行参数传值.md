@@ -13,18 +13,17 @@ import { Link } from 'react-router'
 
 2.通过 Link to设置路由跳转地址，以及需要传递的参数对象，注意，此处to 中所携带的路由和参数也是一个对象。
 ```
-<Link to={{
+<Link to = {{
         pathname: `detail/${id}`,
         state: 'hello',
         }}>点击跳转
 </Link>
 ```
-
 2、to=对象，带参数跳转（pathname, query, hash, state(额外数据）），注意:这些参数都被存放到this.props.location中
 
 ```
  <li>
-	 <Link to={
+	 <Link to = {
 		 {
 			 pathname:"/jump",
 			 hash:'#ahash',  
@@ -35,7 +34,6 @@ import { Link } from 'react-router'
 	 </Link>
  </li>
 ```
-
 3、to=函数，注册到路由跳转事件中，每一次路由变化，都会执行该函数，并经最新的location作为参数。
 
 ```
@@ -43,7 +41,6 @@ import { Link } from 'react-router'
   Hello
 </Link>
 ```
-
 4、不使用Link，在函数内直接操作router
 
 旧版本：由于router只用的context传递路由信息，因此每一个组件都可以轻易的通过this.context.router获取路由
