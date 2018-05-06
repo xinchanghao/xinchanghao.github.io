@@ -5,7 +5,6 @@ date: 2017-08-10
 description: "react中使用Link在不同路由之间进行参数传值"
 tag: React
 ---
-
 ﻿1.使用Link 首先需要引入Link 模块。
 
 ```
