@@ -14,7 +14,7 @@ import { Link } from 'react-router'
 2.通过 Link to设置路由跳转地址，以及需要传递的参数对象，注意，此处to 中所携带的路由和参数也是一个对象。
 ```
 <Link to = {{
-        pathname: `detail/${id}`,
+        pathname: 'detail/id',
         state: 'hello',
         }}>点击跳转
 </Link>
