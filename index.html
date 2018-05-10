@@ -4,12 +4,12 @@ layout: default
 
 <div class="main-post-list hidden">
 
-  <ol class="post-list">
+  <ol class="post-list clearfix">
     {% for post in paginator.posts %}
     <li>
       <h2 class="post-list__post-title post-title"><a href="{{ post.url }}" title="访问 {{ post.title }}">{{ post.title }}</a></h2>
       <p class="excerpt">{{ post.content | strip_html | strip_newlines | truncate: 250 }}&hellip;</p>
-      <div class="post-list__meta">
+      <div class="post-list__meta clearfix">
         <time datetime="{{post.date | date: date_to_xmlschema}}" class="post-list__meta--date date">
           <img src="/images/calendar.png" width="20px" />
           {{ post.date | date: "%F"}}</time>
