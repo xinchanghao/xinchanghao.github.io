@@ -18,14 +18,14 @@ tag: Python
 
  1. CSRF的饼干未设置。
  2. 当Django的CSRF的机制还没有正确使用。 对于POST表单，您需要确保：*该视图功能使用模板RequestContext的，而不是断章取义。
- 3. 在模板中，没有{％csrf_token％}标志
+ 3. 在模板中，没有{ ％ csrf_token ％ }标志
  4. setting.py中加入'django.middleware.csrf.CsrfViewMiddleware'；
 
 *注意：很多教程说要加入'django.middleware.csrf.CsrfResponseMiddleware',，然而当你加入时，你就会发现报错；*
 
 **解决办法如下：**
 
- 1. 表单里加上{% csrf_token %}
+ 1. 表单里加上{ % csrf_token % }
 
  2. 在Settings里的MIDDLEWARE_CLASSES增加配置：'django.middleware.csrf.CsrfViewMiddleware'；
 
