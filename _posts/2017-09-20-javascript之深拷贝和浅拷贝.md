@@ -3,7 +3,7 @@ layout: post
 title: "javascript之深拷贝和浅拷贝"
 date: 2017-09-20
 description: "javascript之深拷贝和浅拷贝"
-tag: javascript
+tag: JavaScript
 ---
 
 JS 中的浅拷贝与深拷贝，只是针对复杂数据类型（Object，Array）的复制问题。浅拷贝与深拷贝都可以实现在已有对象上复制新的出来。对象的实例是存储在堆内存中然后通过一个引用值去操作对象，也就是说，浅拷贝和深拷贝的区别也就是：拷贝引用和拷贝实例。
