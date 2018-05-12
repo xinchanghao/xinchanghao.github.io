@@ -142,3 +142,5 @@ function doSomething(e) {
 
 
 关于事件委托移步：[javascript之事件委托](https://blog.csdn.net/haoaiqian/article/details/71910802)
+
+转载请注明：[化风的博客](http://xinchanghao.github.io) » [javascript之事件捕获和事件冒泡](/2018/04/javascript之事件捕获和事件冒泡/)  
