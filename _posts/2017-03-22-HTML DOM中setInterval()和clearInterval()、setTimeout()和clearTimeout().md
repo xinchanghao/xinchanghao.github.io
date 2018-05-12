@@ -3,7 +3,7 @@ layout: post
 title: "HTML-DOM中setInterval()和clearInterval()-setTimeout()和clearTimeout()"
 date: 2017-03-22
 description: "HTML-DOM中setInterval()和clearInterval()-setTimeout()和clearTimeout()"
-tag: JavaScrip
+tag: JavaScript
 ---
 ﻿###**HTML DOM setInterval()和clearInterval() 方法**
 
