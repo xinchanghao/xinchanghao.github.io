@@ -1,7 +1,7 @@
 # Basic
 title: 化风
 subtitle: 沉稳 大气 笃行 克己
-description: Hi, Welcome to my blog~
+description: 欢迎访问我的个人博客~
 # 头像里面的标题
 avatarTitle: 化 风
 # 头像里面的描述
@@ -61,7 +61,7 @@ nav:
     - {title: aboutme, description: about, url: '/aboutme'}
     #- {title: 关于我, description: about, url: '/about'}
     #- {title: tinyHeart, description: tinyHeart, url: '/tinyHeart'}
-    - {title: leetcode, description: LeetCode, url: '/leetcode'}
+    - {title: leetcode, description: leetcode, url: '/leetcode'}
 
 
 # Pagination
