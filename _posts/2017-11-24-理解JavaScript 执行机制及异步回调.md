@@ -1,8 +1,8 @@
 ﻿---
 layout: post
-title: "三张图解释为什么使用Redux"
+title: "理解JavaScript 执行机制及异步回调"
 date: 2017-11-24
-description: "三张图解释为什么使用Redux"
+description: "理解JavaScript 执行机制及异步回调"
 tag: Redux
 ---
 
