@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ZH-CN">
+
+<head>
+  <title>爱扫</title>
+  <meta http-equiv="cache-control" content="no-cache">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  <meta name="format-detection" content="telephone=no">
+  <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+  <link rel="stylesheet" type="text/css" href="scan/css/index.css">
+  <link rel="stylesheet" type="text/css" href="scan/css/style.css">
+  <!-- <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Roboto:400" /> -->
+  <script src="scan/js/jrj6out.js"></script>
+  <script>try { Typekit.load({ async: false }); } catch (e) { }</script>
+  <script src="scan/js/prefixfree.min.js"></script>
+
+
+</head>
+
+<body>
+  <!-- 爱扫首屏 -->
+  <div class="intro-container">
+    <h1>OPEN A WORLD YOU DON'T KNOW</h1>
+    <div class="button shift-camera-button">
+      <div class="border">
+        <div class="left-plane"></div>
+        <div class="right-plane"></div>
+      </div>
+      <div class="text">进入爱扫</div>
+    </div>
+  </div>
+
+  <div class="sky-container">
+    <div class="text-right sky-container__left">
+      <h2 class="portfolio"></h2>
+    </div>
+    <!-- 扫一扫区域 -->
+    <div class="booth">
+      <video id="video" width="250" height="180"></video>
+      <div class="booth_btn">
+        <div>
+            <button id='tack' class="btn">品牌识别</button>
+        </div>
+        <div>
+            <button id='fun' class="btn">趣味识别</button>
+          </div>
+      </div>
+      <canvas style="display: none" id='canvas' width='250' height='200'></canvas>
+      <div id="res"></div>
+    </div>
+  </div>
+
+
+
+
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script src="scan/js/main.js"></script>
+  <script src='scan/js/jquery.min.js'></script>
+  <script src='scan/js/TweenMax.min.js'></script>
+  <script src='scan/js/three.min.js'></script>
+  <script src="scan/js/index.js"></script>
+</body>
+<script>
+    var $button = document.querySelector('.btn');
+    $button.addEventListener('click', function () {
+      var duration = 0.3,
+        delay = 0.08;
+      TweenMax.to($button, duration, { scaleY: 1.6, ease: Expo.easeOut });
+      TweenMax.to($button, duration, { scaleX: 1.2, scaleY: 1, ease: Back.easeOut, easeParams: [3], delay: delay });
+      TweenMax.to($button, duration * 1.25, { scaleX: 1, scaleY: 1, ease: Back.easeOut, easeParams: [6], delay: delay * 3 });
+    });
+  </script>
+</html>
