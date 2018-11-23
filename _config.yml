@@ -60,7 +60,7 @@ nav:
     - {title: tag, description: tags, url: '/tags'}
     - {title: aboutme, description: about, url: '/aboutme'}
     #- {title: 关于我, description: about, url: '/about'}
-    - {title: 爱扫, description: span, url: '/span/index'}
+    - {title: 爱扫, description: span, url: '/scan/index'}
     - {title: leetcode, description: leetcode, url: '/leetcode'}
 
 
