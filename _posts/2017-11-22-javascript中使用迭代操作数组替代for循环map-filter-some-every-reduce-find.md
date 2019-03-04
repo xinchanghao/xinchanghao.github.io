@@ -190,4 +190,4 @@ function isBigEnough(element) {
 [12, 5, 8, 130, 44].findIndex(isBigEnough); // 3
 ```
 
-转载请注明：[化风的博客](http://xinchanghao.github.io) » [javascript中使用迭代操作数组替代for循环map-filter-some-every-reduce-find](/2017/11/javascript中使用迭代操作数组替代for循环map-filter-some-every-reduce-find/)  
+转载请注明：[化风的博客](http://ChhXin.github.io) » [javascript中使用迭代操作数组替代for循环map-filter-some-every-reduce-find](/2017/11/javascript中使用迭代操作数组替代for循环map-filter-some-every-reduce-find/)  

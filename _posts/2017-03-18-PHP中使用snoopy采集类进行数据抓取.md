@@ -35,4 +35,4 @@ echo "<PRE>".htmlspecialchars($snoopy->results)."</PRE>\n";
 else
 echo "error fetching document: ".$snoopy->error."\n";
 ```
-转载请注明：[化风的博客](http://xinchanghao.github.io) » [PHP中使用snoopy采集类进行数据抓取](/2017/03/PHP中使用snoopy采集类进行数据抓取/)  
+转载请注明：[化风的博客](http://ChhXin.github.io) » [PHP中使用snoopy采集类进行数据抓取](/2017/03/PHP中使用snoopy采集类进行数据抓取/)  

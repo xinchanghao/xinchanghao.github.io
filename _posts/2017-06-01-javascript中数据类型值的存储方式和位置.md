@@ -28,4 +28,4 @@ tag: JavaScript
 
  2. 引用数据类型在栈中存储了指针，该指针指向堆中该实体的起始地址。当解释器寻找引用值时，会首先检索其在栈中的地址，取得地址后从堆中获得实体
 
- 转载请注明：[化风的博客](http://xinchanghao.github.io) » [javascript中数据类型值的存储方式和位置](/2017/06/javascript中数据类型值的存储方式和位置/)  
+ 转载请注明：[化风的博客](http://ChhXin.github.io) » [javascript中数据类型值的存储方式和位置](/2017/06/javascript中数据类型值的存储方式和位置/)  

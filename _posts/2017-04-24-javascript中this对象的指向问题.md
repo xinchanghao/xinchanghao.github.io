@@ -43,4 +43,4 @@ myObject.func();
 
 注意：被谁调用，不是处于谁的作用域，即使在作用域
 
-转载请注明：[化风的博客](http://xinchanghao.github.io) » [javascript中this对象的指向问题](/2017/04/javascript中this对象的指向问题/)  
+转载请注明：[化风的博客](http://ChhXin.github.io) » [javascript中this对象的指向问题](/2017/04/javascript中this对象的指向问题/)  

@@ -51,4 +51,4 @@ import { Link } from 'react-router'
 
 ####注意：push与replace的区别，一个是添加，一个是替换，历史记录中被替换的已经不存在了，所以浏览器回退不到替换前的页面。
 
-转载请注明：[化风的博客](http://xinchanghao.github.io) » [react中使用Link在不同路由之间进行参数传值](/2017/08/react中使用Link在不同路由之间进行参数传值/)            
+转载请注明：[化风的博客](http://ChhXin.github.io) » [react中使用Link在不同路由之间进行参数传值](/2017/08/react中使用Link在不同路由之间进行参数传值/)            

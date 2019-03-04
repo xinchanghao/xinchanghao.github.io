@@ -71,4 +71,4 @@ $(document).ready(function(){
     $("img").attr("title", function() { return this.src });
 ```
 
-转载请注明：[化风的博客](http://xinchanghao.github.io) » [jQuery中this和$(this)获取对象操作DOM对象的元素属性](/2017/02/jQuery中this和$(this)获取对象操作DOM对象的元素属性/)
+转载请注明：[化风的博客](http://ChhXin.github.io) » [jQuery中this和$(this)获取对象操作DOM对象的元素属性](/2017/02/jQuery中this和$(this)获取对象操作DOM对象的元素属性/)

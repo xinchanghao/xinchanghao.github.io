@@ -52,4 +52,4 @@ csrftoken与cookie中的token比较：
 ```
 if not constant_time_compare(request_csrf_token, csrf_token):
 ```
-转载请注明：[化风的博客](http://xinchanghao.github.io) » [Django中CSRF防护原理及使用](/2017/05/Django中CSRF防护原理及使用/)  
+转载请注明：[化风的博客](http://ChhXin.github.io) » [Django中CSRF防护原理及使用](/2017/05/Django中CSRF防护原理及使用/)  

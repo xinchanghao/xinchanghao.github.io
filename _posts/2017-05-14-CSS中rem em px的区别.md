@@ -43,4 +43,4 @@ p {font-size:14px; font-size:.875rem;}
 
 摘自：W3C菜鸟教程
 
-转载请注明：[化风的博客](http://xinchanghao.github.io) » [CSS中rem-em-px的区别](/2017/05/CSS中rem-em-px的区别/)  
+转载请注明：[化风的博客](http://ChhXin.github.io) » [CSS中rem-em-px的区别](/2017/05/CSS中rem-em-px的区别/)  

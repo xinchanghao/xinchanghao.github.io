@@ -103,4 +103,4 @@ console.log(window.title); //undefined
 console.log(window.time); //undefined
 console.log(window.type); //undefined
 ```
-转载请注明：[化风的博客](http://xinchanghao.github.io) » [javascript设计模式之new创建对象的安全模式](/2017/03/javascript设计模式之new创建对象的安全模式/)  
+转载请注明：[化风的博客](http://ChhXin.github.io) » [javascript设计模式之new创建对象的安全模式](/2017/03/javascript设计模式之new创建对象的安全模式/)  

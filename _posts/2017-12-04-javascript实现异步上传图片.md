@@ -93,4 +93,4 @@ var Fileupload = {
 
 [类似博文参考](https://segmentfault.com/a/1190000008304339)
 
-转载请注明：[化风的博客](http://xinchanghao.github.io) » [javascript实现异步上传图片](/2017/12/javascript实现异步上传图片/)                   
+转载请注明：[化风的博客](http://ChhXin.github.io) » [javascript实现异步上传图片](/2017/12/javascript实现异步上传图片/)                   

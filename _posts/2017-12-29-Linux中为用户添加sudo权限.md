@@ -44,4 +44,4 @@ test文件夹创建成功则表示通过。
 timestamp_timeout=-1 只需验证一次密码，以后系统自动记忆。
 runaspw需要root密码，如果不加默认是要输入普通账户的密码。
 
-转载请注明：[化风的博客](http://xinchanghao.github.io) » [Linux中为用户添加sudo权限](/2017/12/Linux中为用户添加sudo权限/)  
+转载请注明：[化风的博客](http://ChhXin.github.io) » [Linux中为用户添加sudo权限](/2017/12/Linux中为用户添加sudo权限/)  

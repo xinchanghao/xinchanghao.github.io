@@ -123,4 +123,4 @@ document.writeln( $("#n1").end().length ); // 0
 </script>
 ```
 
-转载请注明：[化风的博客](http://xinchanghao.github.io) » [jQuery中filter()和find()和has()的用法区别](/2017/03/jQuery中filter()和find()和has()的用法区别/)  
+转载请注明：[化风的博客](http://ChhXin.github.io) » [jQuery中filter()和find()和has()的用法区别](/2017/03/jQuery中filter()和find()和has()的用法区别/)  

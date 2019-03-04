@@ -75,4 +75,4 @@ function stopCount()
 </html>
 
 ```
-转载请注明：[化风的博客](http://xinchanghao.github.io) » [HTML-DOM中setInterval()和clearInterval()-setTimeout()和clearTimeout()](/2017/03/HTML-DOM中setInterval()和clearInterval()-setTimeout()和clearTimeout()/)  
+转载请注明：[化风的博客](http://ChhXin.github.io) » [HTML-DOM中setInterval()和clearInterval()-setTimeout()和clearTimeout()](/2017/03/HTML-DOM中setInterval()和clearInterval()-setTimeout()和clearTimeout()/)  

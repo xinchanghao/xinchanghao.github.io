@@ -36,4 +36,4 @@ tag: Python
  @csrf_exempt
  def contact(request):
 ```
-转载请注明：[化风的博客](http://xinchanghao.github.io) » [Django中post提交表单时错误-CSRF-verification-failed](/2017/05/Django中post提交表单时错误-CSRF-verification-failed/)  
+转载请注明：[化风的博客](http://ChhXin.github.io) » [Django中post提交表单时错误-CSRF-verification-failed](/2017/05/Django中post提交表单时错误-CSRF-verification-failed/)  

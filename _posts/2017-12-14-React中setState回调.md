@@ -39,4 +39,4 @@ this.setState(
 >  - setState更新状态时可能会导致页面不必要的重新渲染，影响加载。
 >  - setState管理大量组件状态也许会导致不必要的生命周期函数钩子调用。
 
-转载请注明：[化风的博客](http://xinchanghao.github.io) » [React中setState回调](/2017/12/React中setState回调/)  
+转载请注明：[化风的博客](http://ChhXin.github.io) » [React中setState回调](/2017/12/React中setState回调/)  
