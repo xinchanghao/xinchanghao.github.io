@@ -43,4 +43,4 @@ var deepCopy = function(obj){
 };
 ```
 
-转载请注明：[化风的博客](http://xinchanghao.github.io) » [javascript之深拷贝和浅拷贝](/2017/09/javascript之深拷贝和浅拷贝/)            
+转载请注明：[化风的博客](http://ChhXin.github.io) » [javascript之深拷贝和浅拷贝](/2017/09/javascript之深拷贝和浅拷贝/)            

@@ -29,4 +29,4 @@ def sendmsg(request):
 	send_mail(subject, message,'163_sender@163.com',['163_recever@163.com'],fail_silently=False)  
 	return HttpResponse("发送邮件成功！")
 
-转载请注明：[化风的博客](http://xinchanghao.github.io) » [关于发邮件报错535-Error-authentication-failed解决方法](/2017/03/关于发邮件报错535-Error-authentication-failed解决方法/)  
+转载请注明：[化风的博客](http://ChhXin.github.io) » [关于发邮件报错535-Error-authentication-failed解决方法](/2017/03/关于发邮件报错535-Error-authentication-failed解决方法/)  

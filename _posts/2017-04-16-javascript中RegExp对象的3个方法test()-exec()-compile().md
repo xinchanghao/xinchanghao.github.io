@@ -78,4 +78,4 @@ patt.compile(patt);
 str2=str.replace(patt,"person");
 document.write(str2);
 ```
-转载请注明：[化风的博客](http://xinchanghao.github.io) » [javascript中RegExp对象的3个方法test()-exec()-compile()](/2017/04/javascript中RegExp对象的3个方法test()-exec()-compile()/)
+转载请注明：[化风的博客](http://ChhXin.github.io) » [javascript中RegExp对象的3个方法test()-exec()-compile()](/2017/04/javascript中RegExp对象的3个方法test()-exec()-compile()/)

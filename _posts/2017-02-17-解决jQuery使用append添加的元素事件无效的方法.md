@@ -50,4 +50,4 @@ $("#zkdiv").append(html2);
 
 ####click是点击事件，但是在页面加载完之后，jquery事件新添加的元素，用click的话是无法获取元素的，这个时候要用on去获取元素事件，简单的说页面加载完成时候页面显示的元素可以用on，也可以用click，但是页面加载完成之后后期再追加的元素只能用on。
 
-转载请注明：[化风的博客](http://xinchanghao.github.io) » [解决jQuery使用append添加的元素事件无效的方法](/2017/02/解决jQuery使用append添加的元素事件无效的方法/)
+转载请注明：[化风的博客](http://ChhXin.github.io) » [解决jQuery使用append添加的元素事件无效的方法](/2017/02/解决jQuery使用append添加的元素事件无效的方法/)

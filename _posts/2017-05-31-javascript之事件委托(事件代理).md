@@ -103,4 +103,4 @@ window.onload = function(){
 关于事件捕获和事件冒泡移步：[javascript之事件捕获和事件冒泡](https://blog.csdn.net/haoaiqian/article/details/79833510)
 
 
-转载请注明：[化风的博客](http://xinchanghao.github.io) » [javascript之事件委托(事件代理)](/2017/05/javascript之事件委托(事件代理)/)  
+转载请注明：[化风的博客](http://ChhXin.github.io) » [javascript之事件委托(事件代理)](/2017/05/javascript之事件委托(事件代理)/)  

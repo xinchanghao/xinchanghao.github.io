@@ -14,4 +14,4 @@ tag: 移动端web
 
 需要显示工具栏和菜单栏时，不需要添加，默认值为yes，即显示。
 
-转载请注明：[化风的博客](http://xinchanghao.github.io) » [Meta标签中的apple-mobile-web-app-capable属性及含义](/2017/09/Meta标签中的apple-mobile-web-app-capable属性及含义/)  
+转载请注明：[化风的博客](http://ChhXin.github.io) » [Meta标签中的apple-mobile-web-app-capable属性及含义](/2017/09/Meta标签中的apple-mobile-web-app-capable属性及含义/)  

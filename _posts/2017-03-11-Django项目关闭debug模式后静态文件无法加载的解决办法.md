@@ -37,4 +37,4 @@ Alias /static /opt/stack/horizon/openstack_dashboard/static
      python manage.py runserver --insecure
 
 [参考出处](https://my.oschina.net/zyzzy/blog/173262)
-转载请注明：[化风的博客](http://xinchanghao.github.io) » [Django项目关闭debug模式后静态文件无法加载的解决办法](/2017/03/Django项目关闭debug模式后静态文件无法加载的解决办法/)  
+转载请注明：[化风的博客](http://ChhXin.github.io) » [Django项目关闭debug模式后静态文件无法加载的解决办法](/2017/03/Django项目关闭debug模式后静态文件无法加载的解决办法/)  

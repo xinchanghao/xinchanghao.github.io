@@ -34,4 +34,4 @@ adress=yes就开启了点击地址直接跳转至地图的功能,在默认是情
 
 [参考](http://blog.sina.com.cn/s/blog_51048da70101cgea.html)
 
-转载请注明：[化风的博客](http://xinchanghao.github.io) » [Meta标签中的format-detection属性及含义](/2017/09/Meta标签中的format-detection属性及含义/)  
+转载请注明：[化风的博客](http://ChhXin.github.io) » [Meta标签中的format-detection属性及含义](/2017/09/Meta标签中的format-detection属性及含义/)  

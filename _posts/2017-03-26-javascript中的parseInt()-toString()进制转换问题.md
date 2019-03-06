@@ -68,4 +68,4 @@ parseInt("0xt")==>parseInt("",16)==>NaN.
 
 parseInt("0x12t")==>parseInt("12",16)==>18.
 
-转载请注明：[化风的博客](http://xinchanghao.github.io) » [javascript中的parseInt()-toString()进制转换问题](/2017/03/javascript中的parseInt()-toString()进制转换问题/)  
+转载请注明：[化风的博客](http://ChhXin.github.io) » [javascript中的parseInt()-toString()进制转换问题](/2017/03/javascript中的parseInt()-toString()进制转换问题/)  

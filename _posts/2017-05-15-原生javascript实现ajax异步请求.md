@@ -62,4 +62,4 @@ tag: JavaScript
 </script>
 
 ```
-转载请注明：[化风的博客](http://xinchanghao.github.io) » [原生javascript实现ajax异步请求](/2017/05/原生javascript实现ajax异步请求/)  
+转载请注明：[化风的博客](http://ChhXin.github.io) » [原生javascript实现ajax异步请求](/2017/05/原生javascript实现ajax异步请求/)  

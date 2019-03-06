@@ -83,4 +83,4 @@ tag: 移动端web
 
 [参考](http://www.cnblogs.com/aimyfly/p/4432121.html)
 
-转载请注明：[化风的博客](http://xinchanghao.github.io) » [WebApp中Meta标签属性及含义](/2017/09/WebApp中Meta标签属性及含义/)  
+转载请注明：[化风的博客](http://ChhXin.github.io) » [WebApp中Meta标签属性及含义](/2017/09/WebApp中Meta标签属性及含义/)  

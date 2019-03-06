@@ -26,4 +26,4 @@ xhr.send(formData);
 
 [参考]（https://stackoverflow.com/questions/17415084/multipart-data-post-using-python-requests-no-multipart-boundary-was-found)
 
-转载请注明：[化风的博客](http://xinchanghao.github.io) » [XHR异步上传文件报错-the-request-was-rejected-because-no-multipart-boundary-was-found](/2017/12/XHR异步上传文件报错-the-request-was-rejected-because-no-multipart-boundary-was-found/)  
+转载请注明：[化风的博客](http://ChhXin.github.io) » [XHR异步上传文件报错-the-request-was-rejected-because-no-multipart-boundary-was-found](/2017/12/XHR异步上传文件报错-the-request-was-rejected-because-no-multipart-boundary-was-found/)  

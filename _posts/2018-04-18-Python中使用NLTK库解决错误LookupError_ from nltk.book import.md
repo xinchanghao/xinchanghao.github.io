@@ -42,4 +42,4 @@ LookupError:
 
 接下来就可以了。。。。
 
-转载请注明：[化风的博客](http://xinchanghao.github.io) » [Python中使用NLTK库解决错误LookupError_from_nltk_book_import](/2018/04/Python中使用NLTK库解决错误LookupError_from_nltk_book_import/)                   
+转载请注明：[化风的博客](http://ChhXin.github.io) » [Python中使用NLTK库解决错误LookupError_from_nltk_book_import](/2018/04/Python中使用NLTK库解决错误LookupError_from_nltk_book_import/)                   
