@@ -58,7 +58,7 @@ blog_button:
 nav:
     - {title: article, description: archive, url: '/archive'}
     - {title: tag, description: tags, url: '/tags'}
-    - {title: aboutme, description: about, url: '/aboutme'}
+    # - {title: aboutme, description: about, url: '/aboutme'}
     #- {title: 关于我, description: about, url: '/about'}
     - {title: tinyheart, description: tinyHeart, url: '/tinyHeart'}
     - {title: leetcode, description: leetcode, url: '/leetcode'}
